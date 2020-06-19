@@ -33,3 +33,6 @@ It will become public, as a way to help other people who are also starting in th
 ------------
 
 > Feel at home, show your creativity 🐱‍💻👩‍💻👨‍💻
+
+![gif](https://user-images.githubusercontent.com/57529463/85100131-b7eaf300-b1d5-11ea-94fd-89f63a9e1773.gif)
+
