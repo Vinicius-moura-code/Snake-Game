@@ -1,5 +1,62 @@
 body{
+   height: 95vh;
+   width: 95;
+
+
+   background-color: rgb(16, 87, 9);
+}
+
+
+#content {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
+
+  flex-direction: column;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 1px rgb(155, 155, 155);
+}
+
+#quadro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+container{
+  background-color: rgb(31, 49, 14);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+canvas{
+  border: 2px black double;
+}
+#snake01{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+#snake02{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+#titulo{
+ margin: 5px;
+ padding: 5px;
+}
+
+#redes{
+ display: flex;
+ justify-content: space-between;
+ padding-bottom: 0;
+ padding-top: 40px;
 }
