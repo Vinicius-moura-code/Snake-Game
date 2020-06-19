@@ -4,7 +4,9 @@
 <strong> web programming </strong>.
 
 It will become public, as a way to help other people who are also starting in the area, so that they can have as a basis to develop their own applications and / or improve and integrate the application with other technologies. </p>
-<hr>
+
+------------
+
 #### In this application, it was used:
 
 - [x] HTML
