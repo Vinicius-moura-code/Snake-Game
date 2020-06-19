@@ -44,9 +44,20 @@ function uptade(event) {
   if (event.keyCode == 40 && direction != 'up') direction = 'down';
 }
 
+function score() {
+  let yourScore;
+  for (let i = 0; i < snake.length; i++) {
+    yourScore = i;
+  }
+  return yourScore;
+}
+function newGame() {
+
+}
+
 function startGame() {
 
-  for (let i = 1; i < snake.length; i++ ) {
+  for (let i = 1; i < snake.length; i++) {
     if (snake[0].x == snake[i].x && snake[0].y == snake[i].y) {
       clearInterval(game);
       alert('game over');
