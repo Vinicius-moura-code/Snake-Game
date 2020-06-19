@@ -1,19 +1,20 @@
-<h1> Snake Game </h1>
-<hr>
+#  Snake Game
+
 <p> The game was designed with the aim of applying the basic concepts of
 <strong> web programming </strong>.
 
 It will become public, as a way to help other people who are also starting in the area, so that they can have as a basis to develop their own applications and / or improve and integrate the application with other technologies. </p>
 <hr>
-<p><h4>In this application, it was used:</h4>
+#### In this application, it was used:
 - HTML
 - Css
 - bootstrap
 - Javascript
-</p>
+
 ------------
 
-<h3> To do: </h3>
+### To do:
+
 1. Fix Bug's
 2. Create new roles
 2.1 Score
